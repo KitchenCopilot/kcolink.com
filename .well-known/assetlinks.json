@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+     "namespace": "com.jsguru.kitchenco",
+     "package_name": "com.jsguru.kitchenco."dev,
+     "sha256_cert_fingerprints":
+     ["FE:53:CA:4D:1A:BA:FF:A7:C9:0F:8F:6E:60:8B:0B:1F:AB:80:63:6A:CD:93:0E:0E:47:7E:58:25:12:ED:6B:EE"]
+    }
+   }]
